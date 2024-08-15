@@ -28,7 +28,7 @@ Technologies Used:
 - SCSS: A CSS preprocessor used to style the application, allowing for nested rules, variables, and mixins.
 
 
-- [DEMO LINK](https://HumenVAsya.github.io/react_todo-app-with-api/)
+- [DEMO LINK](https://humenvasya.github.io/app-todo/)
 
 Ensure you have Node.js installed on your machine. Then, install the project dependencies using npm: npm install
 
